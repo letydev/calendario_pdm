@@ -23,7 +23,7 @@ return (
                 selectedDayTextColor: "#e8e8e8",
                 calendarBackground: "transparent",
                 textDayStyle: {color: "#e8e8e8"},
-                textDisabledColor: "#717171"
+                textDisabledColor: "#717171",
             }}
         
         />
